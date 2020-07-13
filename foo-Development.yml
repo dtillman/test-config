@@ -1,3 +1,3 @@
-foo: Foo text from Development
+foo: Foo text from Development update
 democonfigclient:
- message: hello config server from Development
+ message: hello config server from Development update
